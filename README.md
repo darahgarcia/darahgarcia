@@ -44,5 +44,3 @@ Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com *
 - 💼 LinkedIn: https://www.linkedin.com/in/darah-emmanuelle/
 
 ⭐ Se este perfil te ajudou ou algum projeto foi útil, fique à vontade para deixar uma estrela!
-- ⚡ Fun fact: ...
--->

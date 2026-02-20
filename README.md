@@ -1,7 +1,4 @@
-# 👩‍💻 Darah Emmanuelle
-
-🎯 Analista de Dados | BI | Automação de Processos  
-📊 Power BI • SQL • Python • ETL • Jenkins  
+# Darah Emmanuelle
 🎓 Engenharia de Software (em andamento)
 
 ---
@@ -15,6 +12,15 @@ Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com *
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### 📊 Dados & BI
 - Power BI (DAX, Power Query)

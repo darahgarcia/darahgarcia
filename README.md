@@ -1,5 +1,5 @@
 # Darah Emmanuelle
-🎓 Engenharia de Software (em andamento)
+🎓 Engenheira de Software 
 
 ---
 

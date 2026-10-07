@@ -1,11 +1,7 @@
 # Darah Emmanuelle
-🎓 Engenheira de Software 
-
----
-
 ## 👋 Sobre mim
 
-Sou graduanda em Engenharia de Software com experiência em **Business Intelligence, automação de processos e integração de dados**, atuando na criação de dashboards, relatórios estratégicos e soluções que apoiam a tomada de decisão.
+Sou graduada em Engenharia de Software com experiência em **Business Intelligence, automação de processos e integração de dados**, atuando na criação de dashboards, relatórios estratégicos e soluções que apoiam a tomada de decisão.
 
 Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com **Jenkins** e desenvolvimento de sistemas administrativos. Atualmente atuo na **DISTRIBUIDORA DUNORTE**, apoiando em processos de ETL com QLikSense e Python, e desenvolvimento de DataApps com auxilio de IA.
 

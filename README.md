@@ -26,6 +26,7 @@ Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com *
 
 ### 📊 Dados & BI
 - Power BI (DAX, Power Query)
+- QlikSense e Nprint
 - SQL (PostgreSQL, MariaDB, SQL Server, SQLite)
 - KPIs e dashboards interativos
 - Análise de dados e relatórios gerenciais
@@ -44,6 +45,7 @@ Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com *
 - Wordpress (Low Code)
 - Linux (básico)
 - Metodologia Scrum
+- Winthor (TOTVS)
 
 
 ## 📫 Contato

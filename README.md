@@ -7,7 +7,7 @@
 
 Sou graduanda em Engenharia de Software com experiência em **Business Intelligence, automação de processos e integração de dados**, atuando na criação de dashboards, relatórios estratégicos e soluções que apoiam a tomada de decisão.
 
-Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com **Jenkins** e desenvolvimento de sistemas administrativos. Atualmente atuo no **SIDIA – Instituto de Ciência e Tecnologia**, apoiando processos de homologação de software e gestão de dados.
+Tenho vivência com **Power BI, SQL, Python e ETL**, além de automações com **Jenkins** e desenvolvimento de sistemas administrativos. Atualmente atuo na **DISTRIBUIDORA DUNORTE**, apoiando em processos de ETL com QLikSense e Python, e desenvolvimento de DataApps com auxilio de IA.
 
 ---
 
